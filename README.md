@@ -5,20 +5,24 @@ This is a [Remarkable]() plugin, that transforms the headings into headings with
 
 ```markdown
 # Hello, World!
+```
 
 In a normal Markdown compile, the above
 title will compile to:
 
+```html
 <h1>hello, world!</h1>
+```
 
 This plugin, transforms the headings and
 adds ids and links to them. So the above
 example, compiles to:
 
+```html
 <h1 id="hello-world"><a href="#hello-world">Hello, World!</a></h1>
+```
 
 It's that simple!
-```
 
 ## How to use?
 Install the package:
