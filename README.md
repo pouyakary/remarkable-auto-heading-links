@@ -1,7 +1,7 @@
 
 # Automatic Remarkable Heading Links
 
-This is a [Remarkable]() plugin, that transforms the headings into headings with ids and links so that you can share `#` links.
+This is a [Remarkable](https://github.com/jonschlinkert/remarkable) plugin, that transforms the headings into headings with ids and links so that you can share `#` links.
 
 ```markdown
 # Hello, World!

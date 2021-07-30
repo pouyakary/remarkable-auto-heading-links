@@ -1,6 +1,6 @@
 {
   "name": "remarkable-auto-heading-links",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Automatically generates IDs and Heading links for the markdown in remarkable",
   "main": "index.js",
   "scripts": {
