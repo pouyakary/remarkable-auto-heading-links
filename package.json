@@ -1,5 +1,5 @@
 {
-  "name": "remarkdable-auto-heading-id",
+  "name": "remarkable-auto-heading-links",
   "version": "0.0.1",
   "description": "Automatically generates IDs and Heading links for the markdown in remarkable",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pouyakary/remarkdable-auto-heading-id.git"
+    "url": "git+https://github.com/pouyakary/remarkable-auto-heading-links.git"
   },
   "keywords": [
     "markdown",
@@ -20,7 +20,7 @@
   "author": "Pouya Kary",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/pouyakary/remarkdable-auto-heading-id/issues"
+    "url": "https://github.com/pouyakary/remarkable-auto-heading-links/issues"
   },
-  "homepage": "https://github.com/pouyakary/remarkdable-auto-heading-id#readme"
+  "homepage": "https://github.com/pouyakary/remarkable-auto-heading-links#readme"
 }
